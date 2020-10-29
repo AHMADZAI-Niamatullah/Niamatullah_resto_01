@@ -1,0 +1,38 @@
+body{
+    background-color: cornsilk;
+}
+
+table{
+    margin: 30%;
+    margin-top: 0;
+    background-color:white;
+    margin-bottom: 0;
+}
+.head{
+    background-color: white;
+    text-align: center;
+    padding-left: 45%;
+    width: 100%;
+    float: left;
+}
+
+p{
+    border-bottom: 2px solid gray;
+    text-align: right;
+}
+
+.img1{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+
+.ph1{
+    padding-right: 15%;
+    text-align: right;
+}
+
+.ph2{
+    margin-right: 10%;
+    margin-left: 10%;
+}
